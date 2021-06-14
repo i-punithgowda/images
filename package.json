@@ -1,0 +1,19 @@
+{
+  "name": "nodepdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "html-pdf-node": "^1.0.7",
+    "html5-to-pdf": "^4.0.1",
+    "pdf-creator-node": "^2.2.2",
+    "pdfkit": "^0.12.1"
+  }
+}
